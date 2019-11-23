@@ -36,214 +36,163 @@ As mentioned earlier, we are a young and growing team of learners. We are still 
 
 [IMG]https://i.postimg.cc/g0SCBNqG/3-Features.png[/IMG]
 
-[U][B][SIZE="4"]ColtOS V5.0[/U][/B][/SIZE]
+[U][B][SIZE="4"]ColtOS V5.3[/U][/B][/SIZE]
 [/CENTER]
 [HIDE]
 [LEFT]
 [B][COLOR="#1976D2"][U]General[/U][/COLOR][/B][list]
 [*]Android 10.0
-[*]Security Update: 05 Sep 19, r2
+[*]Security Update: 05 Nov 19, r14
 [*]New ColtOS Wallpaper
 [*]New Bootanimations 
 [*]Brndify Setting Dashboard[/list]
 
-[B][COLOR="#1976D2"][U]Battery[/U][/COLOR][/B][list]
-[*]Smart Charging
-[*]Smart Pixel[/list]
-
 [B][COLOR="#1976D2"][U]Display[/U][/COLOR][/B][list]
 [*]Brightness level
 [*]Adaptive brightness
-[*]LiveDisplay
-	* Color profile
-	* Display mode
-	* Color temperature
-	* Automatic outdoor mode
-	* Reading mode
-	* Color calibration
-	* Picture adjustment
+[*]Style & Wallpaper
+[*]Dark Theme toggle
+[*]Screen Timeout
+[*]Screen Attention
+[*]Auto rotate options
 [*]Font size
 [*]Display size
 [*]Screen saver
-[*]Tap to wake
-[*]Device VR mode
-[*]Fonts Manager
+[*]Lock Screen display
+	* Lock Screen content	      	 
+	* Add user from lock screen
+	* Show lock down option
+	* Always on display
+	* New notifications
+[*]Double tap to wake
+[*]Accent color
+[*]Headline/Body font
+[*]Icon shape
+[*]When Device in VR
 [*]Dashboard conditions
 [*]Dashboard suggestions
-[*]Brandify settings toggle[/list]
+[/list]
 
 [COLOR="#1976D2"][B][U][SIZE="4"]>>> Colt-Enigma (Our Decoration Room) Includes <<<[/SIZE][/U][/B][/COLOR]
-                                                                                                             
+
+[B][I][COLOR="seagreen"][SIZE="4"]Statusbar Tab Menu[/SIZE][/COLOR][/I][/B]
+
 [B][COLOR="#1976D2"][U]Status bar[/U][/COLOR][/B][list]
 [*]Statusbar item
-[*]Clock options
-[*]Battery icon
-[*] Aggressive Battery
-	* Aggressive Idle toggle
-	* Aggressive Standby toggle
-	* Auto enable on battery saver toggle
-[*]Carrier label
-[*]Notification Ticker
 [*]Network Traffic
-[*]Net activity type
-[*]Traffic indicator placement
-[*]Brightness controll
-[*]Old mobile type signal style
-[*]4G/LTE icon toggle
-[*]VoLTE icon enable/disable
-[*]ADB notification toggle
-[*]Double tap statusbar to sleep device
-[*]Data disabled icon toggle 
-[*]Blutooth battery status icon toggle[/list]
-                                                                                                             
+[*]Activity arrows
+[*]4G icon instead of LTE
+[*]Kill ap button
+[/list]
+
 [B][COLOR="#1976D2"][U]Quick settings[/U][/COLOR][/B][list]
 [*]QS Opacity
-[*]Show CPU info
+[*]Quick Pull Down
 [*]Brightness slider toggle
 [*]Brightness slider on bottom toggle
-[*]Adaptive brightness button toggle
-[*]Brightness controll button
-[*]Disable quick settings when locked toggle
-[*]QS Header for Colt
-[*]QS Tile style
-[*]Quick Pull Down
-[*]Smart Pull Down
 [*]Vibrate on touch
-[*]Settings icon toggle
-[*]Running Services icon toggle
-[*]QS footer warnings
-[*]Bluetooth battery status[/list]
+[*]System info
+[*]Disable quick setings when locked
+[/list]
 
-[B][COLOR="#1976D2"][U]QS Tiles[/U][/COLOR][/B][list]
-[*]Sound QS tile
-[*]Caffein tile
-[*]Battery saver tile
-[*]Heads up tile
-[*]CPU info tile
-[*]Sync QS tile
-[*]NFC QS tile
-[*]Row & Colums Customization embedded into qs 3dot menu
-[*]Add/remove tile with one touch [/list]  
+[B][COLOR="#1976D2"][U]Clock settings[/U][/COLOR][/B][list]
+[*]Clock style ( Left, Right, Center)
+[*]AM/PM style
+[*]Show seconds
+[*]Date (Show/hide)
+[*]Date position
+[*]Date style
+[*]Date format
+[*]Clock font size
+[*]Clock font color
+[*]Clock font style
+[/list]  
 
-[B][COLOR="#1976D2"][U]Advance Display[/U][/COLOR][/B][list]
-[*]Smart Pixels[/list]
+[B][COLOR="#1976D2"][U]Battery Style[/U][/COLOR][/B][list]
+[*]QS battery style
+[*]SB battery style
+[*]Battery percentage
+[*]Battery percentage when charging
+[*]Aggressive Idle
+[*]Aggeressive Standby
+[*]Auto enable on battery saver[/list]
 
-[B][COLOR="#1976D2"][U]Animations[/U][/COLOR][/B][list]
-[*]QS Tile Animation
-[*]QS Tile animation duration
-[*]Screen off animation
-[*]ColtEnigma configuration tabs trasition effect
-[*]Toast Animation
-[*]System Animation
-[*]ListView animations
-[*]List View interpolator
-[*]Scrolling cache[/list]                                                                                                             
+[B][I][COLOR="seagreen"][SIZE="4"]Buttons Tab Menu[/SIZE][/COLOR][/I][/B]
 
-[B][COLOR="#1976D2"][U]Recents apps[/U][/COLOR][/B][list]
-[*]Recent Style 
-[*]Clear all button
-[*]Clear all FAB location
-[*]Show memory bar
-[*]Recent styles
-[*]Immersive recents [/list]
-
-[B][COLOR="#1976D2"][U]Volume Button Settings[/U][/COLOR][/B][list]
-[*]Navigation bar
-	* Allow navigation bar
-	* Navigation mode
-	* Smartbar settings
-	* Pulse 
+[B][COLOR="#1976D2"][U]Buttons[/U][/COLOR][/B][list]
 [*]Volume rockers
+	* Volume steps
 	* Playback controll
-	* Volume rocker wake
-	* Volume key cursor controll
-	* Volume panel on left
-	* Audio panel selection
-[*]Screen off power button torch
-[*]Automatically turn torch off [/list]
+	* volume rocker wake
+	* Volume key cursor controll[/list]                                                                                                             
+
+[B][COLOR="#1976D2"][U]Navigation bar[/U][/COLOR][/B][list]
+[*]Invert layout [/list]
+
+[B][COLOR="#1976D2"][U]Power Menu[/U][/COLOR][/B][list]
+[*]Reboot
+[*]Advanced Reboot
+[*]Lockdown
+[*]Screenshot
+[*]Flashlight
+[/list]
+
+[B][COLOR="#1976D2"][U]Gestures[/U][/COLOR][/B][list]
+[*]AOSP Gestures
+	* Swipe fingerprint for notifications
+	* Jump to camera
+	* Syatem navigation
+	* Prevent Ringing
+[*]Screen off poer button torch
+[*]Swipe to screenshot
+[*]Automatically turn torch off
+[*]Wake up on charge
+[*]Double Tap to sleep
+	* On Statusbar
+	* On Lockscreen[/list]
+
+[B][I][COLOR="seagreen"][SIZE="4"]Lockscreen Tab menu[/SIZE][/COLOR][/I][/B]
+
+[B][COLOR="#1976D2"][U]Lock screen Display[/U][/COLOR][/B][list]
+[*]Lockscreen charging Info
+[*]Setup Weather options
+	* Show on lockscreen
+	* Weather Services
+	* Condition icon pack
+	* Show city Name
+	* Show Temperature
+	* Weather style
+[*]Hide Bottom shortcuts
+[*]Force FP authentication
+[/list]
+
+[B][I][COLOR="seagreen"][SIZE="4"]System Tab Menu[/SIZE][/COLOR][/I][/B]
 
 [B][COLOR="#1976D2"][U]Notifications[/U][/COLOR][/B][list]
 [*]Heads up
-[*]Dialer Heads up
-[*]Battery charging light
-[*]Blinck flash light on call
-[*]In-call vibration options
-	* Vibrate on connect
-	* Vibrate on call waiting
-	* Vibrate on disconnect [/list]
-
-[B][COLOR="#1976D2"][U]Lock screen Prefrences[/U][/COLOR][/B][list]
-[*]Ambient display
-	* Always on
-	* New Notification
-	* Show when charging
-	* Pick up
-	* Hand wave
-	* Pocket
-	* Battery level on bottom
-[*]Lockscreen charging info
-[*]Double tap to sleep
-[*]Disable statusbar
-[*]Hide botton shortcuts
-[*]Lockscreen shortcuts
-[*]Lock screen Weather
-[*]Lockscreen UI
-	* Locscreen Colors
-	* Clock Styles
-	* Q clock size
-	* Q Text clock alignment
-	* Clock Font options
-	* Date fonts Options
-	* OwnerInfo font options
-	* Clock Widgets
-	* Clock Font size
-	* Item underneath the clock
-	* Date font size
-	* OwnerInfo font size
-[*]Fingerprint authentication vibration
-[*]Face auto unlock
-[*]Lockscreen Visualizer
-[*]Show LS Visualizer on Ambient Display
-[*]Media cover art [/list]
-
-[B][COLOR="#1976D2"][U]Powermenu[/U][/COLOR][/B][list]
-[*]Lockscreen visibility
-[*]Power Menu Optional Toggles[/list]
-
-[B][COLOR="#1976D2"][U]Colt Decorator [/U][/COLOR][/B][list]
-[*]Colt Themes
-	* Compose
-	* Default
-	* 9 Other prebuilt themes
-[*]Wakeup on Charge
-[*]QS Header styles
-[*]Status bar logo
-[*]DashBoard icon
-[*]Edge Gesture
-[*]AOSP Gesture
-[*]OP Navigation gesture
-[*]Three finger swipe to take screenshot
-[*]Animations
-[*]Battery bar
-[*]Rounded corner customizations
-[*]Toast icon toggle
-[*]Signature spoofing toggle
-[*]Alarm blocker
+[*]Force close notification (On app crash)
+[*]Vibrate on connect
+[*]Vibrate on call waiting
+[*]Vibrate on disconnect
+[/list]
+[B][COLOR="#1976D2"][U]Miscellaneous[/U][/COLOR][/B][list]
+[*]Sensor block per package
+[*]charging animation
+[*]Suspend Actions
 [*]Wakelock blocker
-[*]Suspended actions [/list] 
+[*]Alarm blocker
+[/list] 
 
-[COLOR="#1976D2"][B][U] About ColtOS [/U][/COLOR][/B][list]
+[B][I][COLOR="seagreen"][SIZE="4"]About us Tab[/SIZE][/COLOR][/I][/B]
+[list]
 [*]Short description about us
-[*]Google+
-[*]Official Telegram Group
-[*]Our Github
-[*]Our Team[/list]
+[/list]
 
 [/HIDE]
 [/LEFT][CENTER]
 [IMG]https://i.postimg.cc/Kz16XBJB/4-Download.png[/IMG]
 
-[CENTER][B][SIZE="6"][URL="https://sourceforge.net/projects/coltos/files/"][COLOR="SeaGreen"][U]ColtOs V5.0, Andy 10[/U][/COLOR][/URL][/B][/SIZE][/CENTER]
+[CENTER][B][SIZE="6"][URL="https://sourceforge.net/projects/coltos/files/"][COLOR="SeaGreen"][U]ColtOs V5.3, Andy 10[/U][/COLOR][/URL][/B][/SIZE][/CENTER]
 
 [IMG]https://i.postimg.cc/mgwf7bPz/5-instructions.png[/IMG]
 
@@ -269,7 +218,7 @@ As mentioned earlier, we are a young and growing team of learners. We are still 
 
 [B][SIZE="4"]ROM Source: [URL="https://github.com/Colt-Enigma"]ColtOS Source Codes[/URL][/B][/SIZE]
 
-[B][SIZE="4"]Kernel Source: [URL="https://github.com/ColtOS-Devices/android_kernel_oneplus_msm8996"]Kernel[/URL][/B][/SIZE]
+[B][SIZE="4"]Kernel Source: [URL="https://github.com/ColtOS-Devices/your_kernel_repo"]Kernel[/URL][/B][/SIZE]
 
 [IMG]https://i.postimg.cc/zG5YLLGY/7-credit.png[/IMG]
 
